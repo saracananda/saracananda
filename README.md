@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Cananda!;Tenho+17+anos;Curso+Técnico+em+Informática+para+Internet;Bem+Vindo(a)!+❤)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Cananda!;Sou+Técnica+em+Informática+para+Internet;Seja+Bem+Vindo(a)!+❤)](https://git.io/typing-svg)
 
 
 
@@ -34,11 +34,13 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=saracananda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saracananda&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
-
-  <div align="center">
+<div align="center">
 
   ### ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+
+  
